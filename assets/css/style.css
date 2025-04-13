@@ -1,0 +1,35 @@
+
+*{
+
+    box-sizing: border-box;
+
+}
+
+body {
+
+    font-family: sans-serif;
+
+    line-height: 1.2;    
+}
+
+a {
+
+    text-decoration: none;
+
+    color: inherit;
+
+}
+
+.bg {
+
+    background-image:
+     url(./../cartoons/pexels-william-posser-2150279702-31117309.jpg);
+}
+
+.userCard{
+
+    width: 300px;
+
+    margin: 50px auto;
+}
+
