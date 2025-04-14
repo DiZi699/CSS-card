@@ -56,6 +56,8 @@ a {
     
     overflow: hidden;
     text-align: center;
+
+    padding: 10px;
 }
 
 .userImg{
@@ -67,5 +69,40 @@ a {
     display: inline-block;
     margin-top: -75px;
     border: 3px solid white;
+
+}
+
+
+.username {
+
+    font-size: 1.5rem;
+
+}
+
+.usercity {
+
+    font-size: 1rem;
+
+}
+
+.usermyself {
+
+    font-size: 1.2rem;
+
+}
+
+.userinfo {
+
+    font-size: 1rem;
+    
+    margin-bottom: 35px; 
+
+    padding: 15px;
+}
+
+
+.username, .usercity {
+
+    margin: 3px 0;
 
 }
